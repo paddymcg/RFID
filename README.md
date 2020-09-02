@@ -1,3 +1,3 @@
-# RFID
+# RFID Device
 
-This is my fourth year project
+This is the code for the Arduino RFID tag scanner
